@@ -2,6 +2,9 @@
 
 国自然数据采集之perl快速提取网页Table
 
+数据表：
+![](https://github.com/bioinfo1992/nsfc/blob/master/demo.png)
+
 数据采集源：http://www.letpub.com.cn/
 
 采集工具：perl
